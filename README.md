@@ -83,6 +83,7 @@ python src/test.py
   
 <img src="https://github.com/user-attachments/assets/93be0ef5-f15c-47f3-aced-d0cd8cce456e" alt="org" width="700"/>
 
+
 - **Target image (Grain intensity - 0.1)**
   
 <img src="https://github.com/user-attachments/assets/180a2229-e4ef-4108-b2f6-d4bb57ccbfb1" alt="fg" width="700"/>
@@ -93,6 +94,7 @@ python src/test.py
 - **Film-grain with OpenCV (Grain intensity - 0.1)**
   
 <img src="https://github.com/user-attachments/assets/f926a068-164a-48a0-bd02-27e3e6686cdd" alt="opencv" width="700"/>
+
 
 - **Film-grain with ffmpeg (Noise intensity - 20)**
   
