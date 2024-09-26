@@ -16,12 +16,14 @@ The output of the resulting video depends on the scale factor (2x, 4x, 8x, 16x).
 Download repository:
 ```bash
 git clone https://github.com/KwonseonKyu/ReGrain.git
+cd DeepFilmGrain_pytorch/
 ```
 
 ```bash
-conda create -n fisf python=3.8.19
-conda activate fisf
-pip install -r requirements.txt
+conda env create --name regrain --file environment.yml
+conda activate regrain
+pip install torch==1.7.1+cu110 torchvision==0.8.2+cu110 torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.html
+conda install -c conda-forge anaconda cudnn==8.0.5
 ```
 
 ## Structure of the repository
