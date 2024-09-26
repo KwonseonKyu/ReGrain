@@ -77,16 +77,22 @@ python src/test.py
 ## Test example (Berkeley segmentation dataset) 
 
 ### Input image & Target image
-![org](https://github.com/user-attachments/assets/772d0c4f-b130-40c3-bf06-93c833fb94d9)
+![org](https://github.com/user-attachments/assets/93be0ef5-f15c-47f3-aced-d0cd8cce456e)
+
+![fg](https://github.com/user-attachments/assets/180a2229-e4ef-4108-b2f6-d4bb57ccbfb1)
 
 
 
 ### OpenCV & ffmpeg Grain image
 
+![opencv](https://github.com/user-attachments/assets/f926a068-164a-48a0-bd02-27e3e6686cdd)
+
+![ffmpeg](https://github.com/user-attachments/assets/1cdd7540-67ba-47bb-bd92-2af5d94f06a3)
 
 
 ### DeepFilmGrain pretrained model
 
+![DFG](https://github.com/user-attachments/assets/292c385f-790c-477c-be83-08acb985237c)
 
 
 ### ReGrain simple pretrained model
