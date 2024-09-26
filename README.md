@@ -77,6 +77,7 @@ python src/test.py
 ## Test example (Berkeley segmentation dataset) 
 
 ### Input image & Target image
+![org](https://github.com/user-attachments/assets/772d0c4f-b130-40c3-bf06-93c833fb94d9)
 
 
 
