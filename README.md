@@ -79,9 +79,11 @@ python src/test.py
 ### Input image & Target image
 
 - **Input image**
+  
 ![org](https://github.com/user-attachments/assets/93be0ef5-f15c-47f3-aced-d0cd8cce456e)
 
 - **Target image (Grain intensity - 0.1)**
+  
 ![fg](https://github.com/user-attachments/assets/180a2229-e4ef-4108-b2f6-d4bb57ccbfb1)
 
 
@@ -89,21 +91,26 @@ python src/test.py
 ### OpenCV & ffmpeg Grain image
 
 - **Film-grain with OpenCV (Grain intensity - 0.1)**
+  
 ![opencv](https://github.com/user-attachments/assets/f926a068-164a-48a0-bd02-27e3e6686cdd)
 
 - **Film-grain with ffmpeg (Noise intensity - 20)**
+  
 ![ffmpeg](https://github.com/user-attachments/assets/1cdd7540-67ba-47bb-bd92-2af5d94f06a3)
 
 
 ### DeepFilmGrain pretrained model
 
 - **Film-grain with DFG model (Grain intensity - 0.1)**
+  
 ![DFG](https://github.com/user-attachments/assets/292c385f-790c-477c-be83-08acb985237c)
 
 
 ### ReGrain simple pretrained model
 
 - **Film-grain with my model**
+
+
 
 
 
