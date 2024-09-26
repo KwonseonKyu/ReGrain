@@ -81,29 +81,29 @@ python src/test.py
 
 - **Input image**
   
-<img src="https://github.com/user-attachments/assets/93be0ef5-f15c-47f3-aced-d0cd8cce456e" alt="org" width="1000"/>
+<img src="https://github.com/user-attachments/assets/93be0ef5-f15c-47f3-aced-d0cd8cce456e" alt="org" width="700"/>
 
 - **Target image (Grain intensity - 0.1)**
   
-<img src="https://github.com/user-attachments/assets/180a2229-e4ef-4108-b2f6-d4bb57ccbfb1" alt="fg" width="1000"/>
+<img src="https://github.com/user-attachments/assets/180a2229-e4ef-4108-b2f6-d4bb57ccbfb1" alt="fg" width="700"/>
 
 
 ### OpenCV & ffmpeg Grain image
 
 - **Film-grain with OpenCV (Grain intensity - 0.1)**
   
-<img src="https://github.com/user-attachments/assets/f926a068-164a-48a0-bd02-27e3e6686cdd" alt="opencv" width="1000"/>
+<img src="https://github.com/user-attachments/assets/f926a068-164a-48a0-bd02-27e3e6686cdd" alt="opencv" width="700"/>
 
 - **Film-grain with ffmpeg (Noise intensity - 20)**
   
-<img src="https://github.com/user-attachments/assets/1cdd7540-67ba-47bb-bd92-2af5d94f06a3" alt="ffmpeg" width="1000"/>
+<img src="https://github.com/user-attachments/assets/1cdd7540-67ba-47bb-bd92-2af5d94f06a3" alt="ffmpeg" width="700"/>
 
 
 ### DeepFilmGrain pretrained model
 
 - **Film-grain with DFG model (Grain intensity - 0.1)**
   
-<img src="https://github.com/user-attachments/assets/292c385f-790c-477c-be83-08acb985237c" alt="DFG" width="1000"/>
+<img src="https://github.com/user-attachments/assets/292c385f-790c-477c-be83-08acb985237c" alt="DFG" width="700"/>
 
 
 ### ReGrain simple pretrained model
