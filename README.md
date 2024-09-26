@@ -38,7 +38,7 @@ conda install -c conda-forge anaconda cudnn==8.0.5
 	- `test_one.py`: script for evaluating a trained model on a single test image
 
 File config.json contains the following training parameters:
-```
+
 
 ## Download 
 
