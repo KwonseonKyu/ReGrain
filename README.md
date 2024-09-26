@@ -42,7 +42,7 @@ File config.json contains the following training parameters:
 
 ## Download 
 
-Download pretrained [ONNX model](https://drive.google.com/file/d/1-MIVhCToz8_IKC1B9k47uHtg1cMNyXNO/view?usp=sharing)
+Download pretrained 
 
 
 ## File Paths
