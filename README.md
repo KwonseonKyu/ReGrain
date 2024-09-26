@@ -1,9 +1,9 @@
 # ReGrain
 
 ## Overview
-Create an intermediate frame with the video frame interpolation onnx model and perform two options with the corresponding generated frame. (Slow_motion video generation & Frame rate increase)
+The film grain effect reproduces the properties of analog film, adding an aesthetic element to the image. The model produces a simple yet accurate grain image.
 
-The output of the resulting video depends on the scale factor (2x, 4x, 8x, 16x).
+There are five intensitys of grain (0.01, 0.025, 0.05, 0.075, 0.1).
 
 ## Requirements
 - CUDA 11.0
