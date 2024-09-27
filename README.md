@@ -112,6 +112,7 @@ python src/test.py
 
 - **Film-grain with my model**
 
+![simple](https://github.com/user-attachments/assets/bf2bcc0e-0ec8-4954-bd6b-e84a1a3b0c34)
 
 
 
