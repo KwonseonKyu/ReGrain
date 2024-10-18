@@ -137,6 +137,7 @@ python src/test.py
   </tr>
 </table>
 
+
 - **Film-grain with my model - image3**
 
 <div align="center">
@@ -151,3 +152,29 @@ python src/test.py
 </table>
 
 
+- **Film-grain with my model - image4**
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/14168fbe-bafb-4fde-8fac-ced9d72c94fc" alt="img4-1" width="400"/>
+</div>
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/eeb760dd-067d-4e7a-8c0b-eac4e5c93548" alt="img4-2" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/7c3af535-3fcd-468d-a31b-3db9bdbdd3eb" alt="img4-3" width="400"/></td>
+  </tr>
+</table>
+
+
+- **Film-grain with my model - image5**
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3b8138b5-8ba9-4fb0-b807-8017fc54b9e4" alt="img5-1" width="400"/>
+</div>
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/f0297a87-4a29-4b24-af8e-6c90242ea79c" alt="img5-2" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/cc151e72-576f-42f2-b9bb-4b16a8b998f9" alt="img5-3" width="400"/></td>
+  </tr>
+</table>
