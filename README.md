@@ -111,13 +111,10 @@ python src/test.py
 ### ReGrain simple pretrained model
 
 - **Film-grain with my model**
-input
 <img src="https://github.com/user-attachments/assets/c2cf069c-a5cd-4204-a85f-47a55af59ccc" alt="DFG" width="700"/>
 
-target
 <img src="https://github.com/user-attachments/assets/d9eb36a1-c31a-4a21-b927-e2753455b0bb" alt="DFG" width="700"/>
 
-prediction
 <img src="https://github.com/user-attachments/assets/94b35367-4760-445e-a153-db83b30407e5" alt="DFG" width="700"/>
 
 
