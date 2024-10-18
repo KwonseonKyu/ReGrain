@@ -110,15 +110,19 @@ python src/test.py
 
 ### ReGrain simple pretrained model
 
-- **Film-grain with my model**
-<img src="https://github.com/user-attachments/assets/c2cf069c-a5cd-4204-a85f-47a55af59ccc" alt="DFG" width="400"/>
+- **Film-grain with my model - image1**
+<img src="https://github.com/user-attachments/assets/c2cf069c-a5cd-4204-a85f-47a55af59ccc" alt="img1" width="400"/>
 
-<img src="https://github.com/user-attachments/assets/d9eb36a1-c31a-4a21-b927-e2753455b0bb" alt="DFG" width="400"/>
+<img src="https://github.com/user-attachments/assets/d9eb36a1-c31a-4a21-b927-e2753455b0bb" alt="img1" width="400"/>
 
-<img src="https://github.com/user-attachments/assets/94b35367-4760-445e-a153-db83b30407e5" alt="DFG" width="400"/>
+<img src="https://github.com/user-attachments/assets/94b35367-4760-445e-a153-db83b30407e5" alt="img1" width="400"/>
 
+- **Film-grain with my model - image2**
+<img src="https://github.com/user-attachments/assets/80c82a72-807c-4d43-a4e1-40b1e04fdb8d" alt="img2" width="400"/>
 
+<img src="https://github.com/user-attachments/assets/e9891ee0-20a6-45cc-ad4a-b2fd9188eecc" alt="img2" width="400"/>
 
+<img src="https://github.com/user-attachments/assets/75617f7f-07d3-424d-bbe8-e0281746678e" alt="img2" width="400"/>
 
 
 
