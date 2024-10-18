@@ -137,6 +137,17 @@ python src/test.py
   </tr>
 </table>
 
+- **Film-grain with my model - image3**
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6050a69e-e8fd-4993-b754-a8363672b182" alt="img3-1" width="400"/>
+</div>
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/7900847f-9be4-4563-8dae-8175ff8ba9c1" alt="img3-2" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/6a677ee5-ed08-4e7a-9588-3d14f66c1fa3" alt="img3-3" width="400"/></td>
+  </tr>
+</table>
 
 
