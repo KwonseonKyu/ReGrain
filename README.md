@@ -111,6 +111,15 @@ python src/test.py
 ### ReGrain simple pretrained model
 
 - **Film-grain with my model**
+input
+![1_input](https://github.com/user-attachments/assets/c2cf069c-a5cd-4204-a85f-47a55af59ccc)
+
+target
+![1_target](https://github.com/user-attachments/assets/d9eb36a1-c31a-4a21-b927-e2753455b0bb)
+
+prediction
+![1_pred](https://github.com/user-attachments/assets/94b35367-4760-445e-a153-db83b30407e5)
+
 
 
 
