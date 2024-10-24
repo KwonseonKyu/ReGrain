@@ -112,32 +112,23 @@ python src/test.py
 ### Image 1
 
 - **Original Image**
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0c11647a-3b87-4471-b84e-9a5df7c84ce7" alt="Original Image 1" width="400"/>
-</p>
+![BSD_2092](https://github.com/user-attachments/assets/6a24793f-1519-4258-a3c8-93620d350a2e)
+
+- **Grain Image**
+![Grain_BSD_2092_0 025](https://github.com/user-attachments/assets/7d6bbbcd-5b43-477d-ba51-2c1d646fd926)
+
+![Grain_BSD_2092_0 05](https://github.com/user-attachments/assets/4c89dcff-649d-44d0-add3-c30def51c188)
+
+![Grain_BSD_2092_0 075](https://github.com/user-attachments/assets/b5d1a532-b13a-4a64-a510-0824a759cc4d)
+
+![Grain_BSD_2092_0 1](https://github.com/user-attachments/assets/177cacb1-91e2-41d7-bac1-74017441b305)
 
 
-![BSD_2092](https://github.com/user-attachments/assets/0c11647a-3b87-4471-b84e-9a5df7c84ce7)
 
 
-
-![Grain_BSD_2092_0 1](https://github.com/user-attachments/assets/e66055d2-25c0-41e5-a0a3-41c8c4d08477)
-
-![BSD_2092](https://github.com/user-attachments/assets/caea1298-a317-4aa6-a8fd-10a646944c0d)
+### Image 2
 
 
-
-- **Image 2**
-
-### Grain level - 0.01
-
-### Grain level - 0.025
-
-### Grain level - 0.05
-
-### Grain level - 0.075
-
-### Grain level - 0.1
 
 
 
