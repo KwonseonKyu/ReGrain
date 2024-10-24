@@ -121,21 +121,21 @@ python src/test.py
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/7d6bbbcd-5b43-477d-ba51-2c1d646fd926" alt="Grain Image 25%" width="400"/>
-      <br>25% Grain Level
+      <br>Grain Level: 0.025
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/4c89dcff-649d-44d0-add3-c30def51c188" alt="Grain Image 50%" width="400"/>
-      <br>50% Grain Level
+      <br>Grain Level: 0.05
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/b5d1a532-b13a-4a64-a510-0824a759cc4d" alt="Grain Image 75%" width="400"/>
-      <br>75% Grain Level
+      <br>Grain Level: 0.075
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/177cacb1-91e2-41d7-bac1-74017441b305" alt="Grain Image 100%" width="400"/>
-      <br>100% Grain Level
+      <br>Grain Level: 0.1
     </td>
   </tr>
 </table>
