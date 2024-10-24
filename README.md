@@ -109,6 +109,10 @@ python src/test.py
 
 ## My re-grain model test
 
+- **Film-grain with DFG model (Grain intensity - 0.1)**
+
+- **Film-grain with DFG model (Grain intensity - 0.1)**
+
 ### Grain level - 0.01
 
 ### Grain level - 0.025
