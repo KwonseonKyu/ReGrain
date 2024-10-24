@@ -109,9 +109,9 @@ python src/test.py
 
 ## My re-grain model test
 
-- **Image 1**
+### Image 1
 
-### Original Image
+- **Original Image**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0c11647a-3b87-4471-b84e-9a5df7c84ce7" alt="Original Image 1" width="400"/>
 </p>
