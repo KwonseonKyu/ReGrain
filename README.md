@@ -107,8 +107,9 @@ python src/test.py
   
 <img src="https://github.com/user-attachments/assets/292c385f-790c-477c-be83-08acb985237c" alt="DFG" width="700"/>
 
+## My model test
 
-### ReGrain simple pretrained model
+### My model
 
 - **Film-grain with my model - image1**
 
