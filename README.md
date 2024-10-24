@@ -143,11 +143,37 @@ python src/test.py
 </table>
 
 
-
 ### Image 2
 
+- **Original Image**
+
+<img src="https://github.com/user-attachments/assets/6a24793f-1519-4258-a3c8-93620d350a2e" alt="Original BSD_2092" width="400"/>
 
 
+- **Grain Images**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/7d6bbbcd-5b43-477d-ba51-2c1d646fd926" alt="Grain Image 25%" width="400"/>
+      <br>Grain Level: 0.025
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/4c89dcff-649d-44d0-add3-c30def51c188" alt="Grain Image 50%" width="400"/>
+      <br>Grain Level: 0.05
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/b5d1a532-b13a-4a64-a510-0824a759cc4d" alt="Grain Image 75%" width="400"/>
+      <br>Grain Level: 0.075
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/177cacb1-91e2-41d7-bac1-74017441b305" alt="Grain Image 100%" width="400"/>
+      <br>Grain Level: 0.1
+    </td>
+  </tr>
+</table>
 
 
 
