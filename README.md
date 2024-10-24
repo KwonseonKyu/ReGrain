@@ -112,10 +112,12 @@ python src/test.py
 
 ### Image 1
 
-#### Original Image
+- **Original Image**
+
 <img src="https://github.com/user-attachments/assets/6a24793f-1519-4258-a3c8-93620d350a2e" alt="Original BSD_2092" width="400"/>
 
-#### Grain Images
+
+- **Grain Images**
 
 <table>
   <tr>
