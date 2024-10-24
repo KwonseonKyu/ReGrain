@@ -202,6 +202,35 @@ python src/test.py
 </table>
 
 
+- **Grain Images - Detail**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/117ad8f8-1bc3-4de7-9636-eda02c6b9a7e" alt="Grain Image 25%" width="500"/>
+      <br>Grain Level: 0.025
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/16bfe501-7d5d-4434-8367-d7dfb137ff48" alt="Grain Image 50%" width="500"/>
+      <br>Grain Level: 0.05
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/bf1b6a21-cb77-4c23-801c-9098eb2b5a6b" alt="Grain Image 75%" width="500"/>
+      <br>Grain Level: 0.075
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/404afaea-e101-41e0-a9f4-ebcf63385d7e" alt="Grain Image 100%" width="500"/>
+      <br>Grain Level: 0.1
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 
 
 
