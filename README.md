@@ -114,7 +114,7 @@ python src/test.py
 
 - **Original Image**
 
-<img src="https://github.com/user-attachments/assets/6a24793f-1519-4258-a3c8-93620d350a2e" alt="Original BSD_2092" width="400"/>
+<img src="https://github.com/user-attachments/assets/6a24793f-1519-4258-a3c8-93620d350a2e" alt="Original BSD_2092" width="500"/>
 
 
 - **Grain Images**
@@ -122,21 +122,21 @@ python src/test.py
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/7d6bbbcd-5b43-477d-ba51-2c1d646fd926" alt="Grain Image 25%" width="400"/>
+      <img src="https://github.com/user-attachments/assets/7d6bbbcd-5b43-477d-ba51-2c1d646fd926" alt="Grain Image 25%" width="500"/>
       <br>Grain Level: 0.025
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/4c89dcff-649d-44d0-add3-c30def51c188" alt="Grain Image 50%" width="400"/>
+      <img src="https://github.com/user-attachments/assets/4c89dcff-649d-44d0-add3-c30def51c188" alt="Grain Image 50%" width="500"/>
       <br>Grain Level: 0.05
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/b5d1a532-b13a-4a64-a510-0824a759cc4d" alt="Grain Image 75%" width="400"/>
+      <img src="https://github.com/user-attachments/assets/b5d1a532-b13a-4a64-a510-0824a759cc4d" alt="Grain Image 75%" width="500"/>
       <br>Grain Level: 0.075
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/177cacb1-91e2-41d7-bac1-74017441b305" alt="Grain Image 100%" width="400"/>
+      <img src="https://github.com/user-attachments/assets/177cacb1-91e2-41d7-bac1-74017441b305" alt="Grain Image 100%" width="500"/>
       <br>Grain Level: 0.1
     </td>
   </tr>
@@ -147,7 +147,7 @@ python src/test.py
 
 - **Original Image**
 
-<img src="https://github.com/user-attachments/assets/9dd4acca-2fa9-49ce-b586-ac585d66cfd5" alt="Original BSD_2092" width="400"/>
+<img src="https://github.com/user-attachments/assets/9dd4acca-2fa9-49ce-b586-ac585d66cfd5" alt="Original BSD_2092" width="500"/>
 
 
 - **Grain Images**
@@ -155,21 +155,21 @@ python src/test.py
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/13244300-8327-4578-a2e1-8f0464f5a8b5" alt="Grain Image 25%" width="400"/>
+      <img src="https://github.com/user-attachments/assets/13244300-8327-4578-a2e1-8f0464f5a8b5" alt="Grain Image 25%" width="500"/>
       <br>Grain Level: 0.025
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/e0c41688-0edf-4fed-87da-e5e0e1ebc16f" alt="Grain Image 50%" width="400"/>
+      <img src="https://github.com/user-attachments/assets/e0c41688-0edf-4fed-87da-e5e0e1ebc16f" alt="Grain Image 50%" width="500"/>
       <br>Grain Level: 0.05
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/043d2ca4-6a0f-4d12-9939-d91644693947" alt="Grain Image 75%" width="400"/>
+      <img src="https://github.com/user-attachments/assets/043d2ca4-6a0f-4d12-9939-d91644693947" alt="Grain Image 75%" width="500"/>
       <br>Grain Level: 0.075
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/b59e4bf6-5721-4fc5-8b74-203037e4d18b" alt="Grain Image 100%" width="400"/>
+      <img src="https://github.com/user-attachments/assets/b59e4bf6-5721-4fc5-8b74-203037e4d18b" alt="Grain Image 100%" width="500"/>
       <br>Grain Level: 0.1
     </td>
   </tr>
